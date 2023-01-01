@@ -16,7 +16,7 @@ driver = webdriver.Chrome(service=Service(
 driver.maximize_window()
 
 
-username = '8368523381'
+username = ''
 password = 'schwitz'
 
 driver.get("https://www.tnesevai.tn.gov.in/citizen/LoginWithMobile.aspx")
